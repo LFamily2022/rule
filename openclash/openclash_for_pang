@@ -333,8 +333,8 @@ config dns_servers
 
 config config_subscribe
 	option enabled '1'
-	option name 'bunny'
-	option address '复制此地址开启你的订阅之旅:https://ling.lty88.net/#/register?code=7FRDORSX'
+	option name '机场'
+	option address '复制你的订阅'
 	option sub_ua 'clash-verge/v1.5.1'
 	option sub_convert '0'
 	option emoji 'false'
